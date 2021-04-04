@@ -2,20 +2,20 @@
 
 | #   | Date       | Title                                                    | Author                      |
 | :-- | :--------- | :------------------------------------------------------- | :-------------------------- |
-| ??? | 2021-01-16 | The Turn of the Key                                      | Ruth Ware                   |
-| ??? | 2020-12-19 | Square Haunting: Five Writers in London Between the Wars | Francesca Wade              |
-| ??? | 2020-11-21 | Piranesi                                                 | Susanna Clarke              |
-| ??? | 2020-10-17 | A Gentleman in Moscow                                    | Amor Towles                 |
-| ??? | 2020-09-19 | Convenience Store Woman                                  | Sayaka Murata               |
-| ??? | 2020-08-15 | The Prime of Miss Jean Brodie                            | Muriel Spark                |
-| ??? | 2020-07-18 | Death Comes for the Archbishop                           | Willa Cather                |
-| ??? | 2020-06-20 | An Elderly Lady Is Up to No Good                         | Helene Tursten              |
-| ??? | 2020-05-16 | Who Fears Death                                          | Nnedi Okorafor              |
-| ??? | 2020-04-18 | 21 Lessons for the 21st Century                          | Yuval Noah Harari           |
-| ??? | 2020-03-21 | My Life in Middlemarch                                   | Rebecca Mead                |
-| ??? | 2020-02-22 | Death in the Andes                                       | Mario Vargas Llosa          |
-| ??? | 2020-01-18 | The Manuscript Found in Saragossa                        | Count Jan Potocki           |
-| ??? | 2019-12-21 | The Testaments                                           | Margaret Atwood             |
+| 164 | 2021-01-16 | The Turn of the Key                                      | Ruth Ware                   |
+| 163 | 2020-12-19 | Square Haunting: Five Writers in London Between the Wars | Francesca Wade              |
+| 162 | 2020-11-21 | Piranesi                                                 | Susanna Clarke              |
+| 161 | 2020-10-17 | A Gentleman in Moscow                                    | Amor Towles                 |
+| 160 | 2020-09-19 | Convenience Store Woman                                  | Sayaka Murata               |
+| 159 | 2020-08-15 | The Prime of Miss Jean Brodie                            | Muriel Spark                |
+| 158 | 2020-07-18 | Death Comes for the Archbishop                           | Willa Cather                |
+| 157 | 2020-06-20 | An Elderly Lady Is Up to No Good                         | Helene Tursten              |
+| 156 | 2020-05-16 | Who Fears Death                                          | Nnedi Okorafor              |
+| 155 | 2020-04-18 | 21 Lessons for the 21st Century                          | Yuval Noah Harari           |
+| 154 | 2020-03-21 | My Life in Middlemarch                                   | Rebecca Mead                |
+| 153 | 2020-02-22 | Death in the Andes                                       | Mario Vargas Llosa          |
+| 152 | 2020-01-18 | The Manuscript Found in Saragossa                        | Count Jan Potocki           |
+| 151 | 2019-12-21 | The Testaments                                           | Margaret Atwood             |
 | 150 | 2019-11-23 | You Can't Touch My Hair: And Other Things I Still Have to Explain | Phoebe Robinson |
 | 149 | 2019-10-19 | Waiting for the Barbarians | J. M. Coetzee |
 | 148 | 2019-09-28 | Jamrach's Menagerie | Carol Birch |
