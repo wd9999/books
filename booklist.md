@@ -67,3 +67,23 @@
 | 102 | 2015-11-21 | Wave | Sonali Deraniyagala |
 | 101 | 2015-10-24 | House of Leaves | Mark Z. Danielewski |
 | 100 | 2015-09-19 | The Absolutely True Diary of a Part-Time Indian | Sherman Alexie |
+| 99 | 2015-08-22 | A Small Corner of Hell: Dispatches from Chechnya | Anna Politkovskaya |
+| 98 | 2015-07-18 | Prague | Arthur Phillips |
+| 97 | 2015-06-20 | The Rapture of Canaan | Sheri Reynolds |
+| 96 | 2015-05-23 | The Bottoms | Joe R. Lansdale |
+| 95 | 2015-04-18 | The Loved One | Evelyn Waugh |
+| 94 | 2015-03-21 | Detroit: An American Autopsy | Charlie LeDuff |
+| 93 | 2015-02-21 | Lucky Jim | Kingsley Amis |
+| 92 | 2015-01-24 | Growth of the Soil | Knut Hamsun |
+| 91 | 2014-12-13 | The Master and Margarita | Mikhail Bulgakov |
+| 90 | 2014-11-29 | Random Acts of Senseless Violence | Jack Womack |
+| 89 | 2014-11-01 | Let the Right One In | John Ajvide Lindqvist |
+| 88 | 2014-09-20 | Georgiana: Duchess of Devonshire | Amanda Foreman |
+| 87 | 2014-08-30 | The Long Goodbye | Raymond Chandler |
+| 86 | 2014-07-19 | This Earth of Mankind | Pramoedya Ananta Toer |
+| 85 | 2014-06-21 | Midnight's Children | Salman Rushdie |
+| 84 | 2014-05-17 | Infamous Lady: The True Story of Countess Erzsébet Báthory | Kimberly L. Craft |
+| 83 | 2014-04-19 | Arabian Sands | Wilfred Thesiger |
+| 82 | 2014-03-15 | Love's Executioner and Other Tales of Psychotherapy | Irvin D. Yalom |
+| 81 | 2014-02-22 | Infinite Jest | David Foster Wallace |
+| 80 | 2014-01-18 | Noli Me Tángere | José Rizal, Harold Augenbraum (translator) |
