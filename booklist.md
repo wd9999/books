@@ -2,6 +2,17 @@
 
 | #   | Date       | Title                                                    | Author                      |
 | :-- | :--------- | :------------------------------------------------------- | :-------------------------- |
+| 175 | 2021-12-18 | Mr. Dickens and His Carol                                | Samantha Silva              |
+| 174 | 2021-11-20 | Bellwether                                               | Connie Willis               |
+| 173 | 2021-10-16 | The King at the Edge of the World                        | Arthur Phillips             |
+| 172 | 2021-09-18 | Deacon King Kong                                         | James McBride               |
+| 171 | 2021-08-21 | Girl, Woman, Other                                       | Bernardine Evaristo         |
+| 170 | 2021-07-17 | The Gentleman in the Parlour: A Record of a Journey from Rangoon to Haiphong | W. Somerset Maugham |
+| 169 | 2021-06-19 | Brazzaville Beach                                        | William Boyd                |
+| 168 | 2021-05-15 | The Woman in Black                                       | Susan Hill                  |
+| 167 | 2021-04-17 | Memorial Drive: A Daughter's Memoir                      | Natasha Trethewey           |
+| 166 | 2021-03-20 | Kindred                                                  | Octavia E. Butler           |
+| 165 | 2021-02-20 | The Wreath                                               | Sigrid Undset               |
 | 164 | 2021-01-16 | The Turn of the Key                                      | Ruth Ware                   |
 | 163 | 2020-12-19 | Square Haunting: Five Writers in London Between the Wars | Francesca Wade              |
 | 162 | 2020-11-21 | Piranesi                                                 | Susanna Clarke              |
