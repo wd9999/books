@@ -2,6 +2,15 @@
 
 | #   | Date       | Title                                                    | Author                      |
 | :-- | :--------- | :------------------------------------------------------- | :-------------------------- |
+| 184 | 2022-09-17 | Klara and the Sun                                        | Kazuo Ishiguro              |
+| 183 | 2022-08-20 | Ice                                                      | Anna Kavan                  |
+| 182 | 2022-07-16 | The Marriage of Cadmus and Harmony                       | Roberto Calasso             |
+| 181 | 2022-06-18 | The Transit of Venus                                     | Shirley Hazzard             |
+| 180 | 2022-05-21 | Hotel du Lac                                             | Anita Brookner              |
+| 179 | 2022-04-16 | The Alteration                                           | Kingsley Amis               |
+| 178 | 2022-03-19 | Laurus                                                   | Eugene Vodolazkin           |
+| 177 | 2022-02-19 | Gravity's Rainbow                                        | Thomas Pynchon              |
+| 176 | 2022-01-15 | The Three-Body Problem                                   | Liu Cixin                   |
 | 175 | 2021-12-18 | Mr. Dickens and His Carol                                | Samantha Silva              |
 | 174 | 2021-11-20 | Bellwether                                               | Connie Willis               |
 | 173 | 2021-10-16 | The King at the Edge of the World                        | Arthur Phillips             |
